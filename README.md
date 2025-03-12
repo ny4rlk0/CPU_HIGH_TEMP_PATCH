@@ -1,3 +1,7 @@
+# This repo is old  and archieved! 
+<br>You can find new easy way to do this in 
+<br>[https://github.com/ny4rlk0/WinOptiMaze](https://github.com/ny4rlk0/WinOptiMaze)
+<br>
 # Auto_CPU_HIGH_TEMP_PATCH
   </br> Extract everything on C drive. </br> Run PATCH with right click Admin. </br> Boom Patched. (10-20 C temp difference in games. With same performance.)
 
